@@ -1,0 +1,9 @@
+# Generated reports
+reports/*.txt
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.tmp
